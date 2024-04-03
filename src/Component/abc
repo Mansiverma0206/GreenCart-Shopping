@@ -1,0 +1,32 @@
+export default [
+   {pid : 101  ,namef : "Mango",       pricef : 100 , imagef : "img/mango.webp"},
+   {pid : 102  ,namef : "Mango" ,      pricef : 150 , imagef : "img/mango2.jpg"},
+   {pid : 103  ,namef : "Grape" ,      pricef : 100 , imagef:  "img/grape.jpg"},
+   {pid : 104  ,namef : "BlackGrape",  pricef : 120 , imagef : "img/blackGrape.jpg"},
+   {pid : 105  ,namef : "Banana" ,     pricef : 80 ,  imagef : "img/banana.jpg"},
+   {pid : 106  ,namef : "Cherry" ,     pricef : 180 , imagef : "img/cherry.jpg"},
+   {pid : 107  ,namef : "Pineapple",   pricef : 200 , imagef : "img/pineapple.jpg"},
+   {pid : 108  ,namef : "pomegrante" , pricef : 230 , imagef : "img/pomegrante.jpg"},
+   {pid : 109  ,namef : "Papaya" ,     pricef : 160 , imagef : "img/papaya.jpg"},
+   {pid : 110  ,namef : "Orange" ,     pricef : 230 , imagef : "img/orange.jpg"},
+   {pid : 111  ,namef : "Kiwi",        pricef : 300 , imagef : "img/kiwi.jpg"},
+   {pid : 112  ,namef : "Carrot",      pricef : 150,  imagef : "img/carrot.jpg"},
+
+   {pid : 113  ,nameV : "coriander",   priceV : 80,   imageV : "img/coriander.jpg"},
+   {pid : 114  ,nameV : "Curry Leaves",priceV : 70,   imageV : "img/curryLeaves.jpg"},
+   {pid : 115  ,nameV : "Garlic",      priceV : 200 , imageV : "img/garlic.jpg"},
+   {pid : 116  ,nameV : "Ginger",      priceV : 250 , imageV : "img/ginger.jpg"},
+   {pid : 117  ,nameV : "Okra",        priceV : 350,  imageV : "img/okra.jpg"},
+   {pid : 118  ,nameV : "Onion" ,      priceV : 390 , imageV : "img/onion.png"},
+   {pid : 119  ,nameV : "Peas" ,       priceV : 400,  imageV : "img/peas.jpg"},
+   {pid : 120  ,nameV : " Potato",     priceV :200,   imageV :"img/potato.jpg"},
+   {pid : 121  ,nameV : "Spinch",      priceV : 150,  imageV :"img/spinch.jpg"},
+
+   {pid : 122  ,nameJ : "Amul Butter", priceJ : 450 ,  imageJ : "img/amul butter.jpg"},
+   {pid : 123  ,nameJ : "Amul Cheese", priceJ : 430,   imageJ : "img/amulCheese.jpg"},
+   {pid : 124  ,nameJ : "Chhachh" ,    priceJ : 1000 , imageJ : "img/chhachh.webp"},
+   {pid : 125  ,nameJ : "Dahi",        priceJ : 180,   imageJ : "img/dahi.webp"},
+   {pid : 126  ,nameJ : "Milk",        priceJ : 180,   imageJ : "img/milk.jpg"},
+   {pid : 127  ,nameJ : "Mazza" ,      priceJ : 200 ,  imageJ : "img/mazza.webp"},
+   {pid : 128  ,nameJ : "paneer",      priceJ : 500,   imageJ : "img/paneer.jpg"}
+]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
